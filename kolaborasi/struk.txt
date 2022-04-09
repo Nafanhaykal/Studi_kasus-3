@@ -1,0 +1,11 @@
+STRUK PEMBELIAN
+
+Menu Yang DiPesan : 
+Ayam Geprek	-> 1
+Ayam Goreng	-> 2
+Udang Goreng	-> 1
+Cumi Goreng	-> 1
+Ayam Bakar	-> 1
+Harga	= Rp.119000
+Ongkir	= Rp.25000
+Total Bayar	= Rp.144000
